@@ -1,0 +1,32 @@
+body{
+    text-align: center;
+}
+
+#apps{
+    background-color: pink;
+}
+
+#games{
+    background-color: lightskyblue;
+}
+
+#art{
+    background-color: lightgreen;
+}
+
+#Bots{
+    background-color: aquamarine;
+}
+#mycarousel{
+    background-color: red;
+}
+#mycarousel img{
+    height: 300px;
+    margin-top: 35px;
+}
+carousel-inner p{
+    margin-bottom: 15x;
+    margin-top: 15px;
+    color: white;
+    font-size: 20px;
+}
